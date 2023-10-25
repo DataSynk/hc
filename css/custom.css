@@ -35,13 +35,13 @@ button {
 }
 
 .cta-green {
-    background: #00FFAD;
-    color: #192440;
+    background: #15201d;
+    color: #eaebec;
 }
 
 .cta-green:hover {
     color: #ffffff;
-    background: #00e69c;
+    background: #041f16;
 }
 
 .cta-blue {
